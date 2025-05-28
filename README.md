@@ -13,10 +13,10 @@ ROS2 TurtleSim controller using real-time hand gestures with **MediaPipe** and *
 - Real-time webcam input via OpenCV
 - Publishes to `/turtle1/cmd_vel` to move the turtle
 - Supports gestures for:
-  - 🡅 Move Forward
-  - 🡇 Move Backward
-  - 🡄 Turn Left
-  - 🡆 Turn Right
+  -  Move Forward
+  -  Move Backward
+  -  Turn Left
+  -  Turn Right
 
 ---
 
@@ -72,7 +72,7 @@ ros2 run turtlesim turtlesim_node
 6. Run the gesture controller node:
 
 ```bash
-ros2 run ros2_hand_gesture_controller turtle_key_controller
+ros2 run ros2_hand_gesture_controller turtle_gesture_controller
 ```
 
 ---
