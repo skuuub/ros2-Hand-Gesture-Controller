@@ -86,13 +86,3 @@ ros2 run ros2_hand_gesture_controller turtle_key_controller
 | Ring Touch Thumb             | Turn Right     |
 | Pinky Touch Thumb            | Move Backward  |
 
-
-## 📷 Screenshots
-
-| Gesture Detection | TurtleSim Motion | Terminal Logs |
-|-------------------|------------------|---------------|
-| ![hand](./Screenshot%20from%202025-05-27%2022-20-31%20(copy).png) | ![move](./Screenshot%20from%202025-05-27%2022-20-31.png) | Logs showing `move left` |
-
----
-
-Built with ❤️ using ROS2 and Python.
