@@ -2,8 +2,8 @@
 
 ROS2 TurtleSim controller using real-time hand gestures with **MediaPipe** and **OpenCV**. Control movement via webcam-detected gestures mapped to ROS2 velocity commands.
 
-![Gesture Detection](./Screenshot%20from%202025-05-27%2022-20-31%20(copy).png)
-![TurtleSim Movement](./Screenshot%20from%202025-05-27%2022-20-31.png)
+![Gesture Detection](hand_demo_1.png)
+![TurtleSim Movement](hand_demo_2.png)
 
 ---
 
